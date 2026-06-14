@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Save whole webpage to PDF",
+  "version": "1.0",
+  "description": "Save current webpage to A4 PDF with multiple pages",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
